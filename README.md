@@ -1,0 +1,1 @@
+This Password Generator is a web application built using HTML, CSS, and JavaScript that helps users create strong and secure passwords. Users can select the password length and choose to include special characters. The application generates random passwords instantly and displays them in a clean, easy-to-use interface.
